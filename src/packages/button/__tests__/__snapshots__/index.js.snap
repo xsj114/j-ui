@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`JButton border is border 1`] = `<button class="j_button j_button_border"></button>`;
+
+exports[`JButton create click 1`] = `<button class="j_button"><span class="j_button_content">添加</span></button>`;
+
+exports[`JButton create create 1`] = `<button class="j_button"></button>`;
+
+exports[`JButton create create icon 1`] = `<button class="j_button"><span class="j_button_content"><i class="j-icon_right_arrow"></i></span></button>`;
+
+exports[`JButton create create text 1`] = `<button class="j_button"><span class="j_button_content">添加</span></button>`;
+
+exports[`JButton disabled is disabled 1`] = `<button disabled="disabled" class="j_button"></button>`;
+
+exports[`JButton round is round 1`] = `<button class="j_button j_button_round"></button>`;
+
+exports[`JButton size large size 1`] = `<button class="j_button j_button_large"></button>`;
+
+exports[`JButton size small size 1`] = `<button class="j_button j_button_small"></button>`;

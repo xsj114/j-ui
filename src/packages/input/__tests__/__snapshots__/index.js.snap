@@ -1,0 +1,147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput JInput method blur 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput JInput method focus 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput clearable click event click 1`] = `<div class="j_input"><input type="text" class="j_input_inner"><span class="j_input_icon j_input_suffix"><i class="j_input_icon_gesture j-icon_tag_close"></i></span></div>`;
+
+exports[`JInput clearable pass clearable and mock focused disabled and readonly is false and value is empty 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput clearable pass clearable and mock focused disabled and readonly is false and value not empty 1`] = `<div class="j_input"><input type="text" class="j_input_inner"><span class="j_input_icon j_input_suffix"><i class="j_input_icon_gesture j-icon_tag_close"></i></span></div>`;
+
+exports[`JInput clearable pass clearable and mock focused disabled is false an readonly is true and value not empty 1`] = `<div class="j_input"><input type="text" readonly="readonly" class="j_input_inner"></div>`;
+
+exports[`JInput clearable pass clearable and mock focused disabled is true and readonly is false and value not empty 1`] = `<div class="j_input"><input type="text" disabled="disabled" class="j_input_inner"></div>`;
+
+exports[`JInput clearable pass clearable and mock hovering disabled and readonly is false and value is empty 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput clearable pass clearable and mock hovering disabled and readonly is false and value not empty 1`] = `<div class="j_input"><input type="text" class="j_input_inner"><span class="j_input_icon j_input_suffix"><i class="j_input_icon_gesture j-icon_tag_close"></i></span></div>`;
+
+exports[`JInput clearable pass clearable and mock hovering disabled is false an readonly is true and value not empty 1`] = `<div class="j_input"><input type="text" readonly="readonly" class="j_input_inner"></div>`;
+
+exports[`JInput clearable pass clearable and mock hovering disabled is true and readonly is false and value not empty 1`] = `<div class="j_input"><input type="text" disabled="disabled" class="j_input_inner"></div>`;
+
+exports[`JInput create blur event 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput create change event 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput create compositionend isComposing is false 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput create compositionend isComposing is true 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput create compositionstart 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput create create 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput create focus event 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput create input event event value equal nativeInputValue 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput create input event input 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput create input event isComposing is ture 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput create mouseenter event 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput create mouseleave event 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput disabled pass disabled 1`] = `<div class="j_input"><input type="text" disabled="disabled" class="j_input_inner"></div>`;
+
+exports[`JInput readonly pass readonly 1`] = `<div class="j_input"><input type="text" readonly="readonly" class="j_input_inner"></div>`;
+
+exports[`JInput round is round 1`] = `<div class="j_input"><input type="text" class="j_input_inner j_input_inner_round"></div>`;
+
+exports[`JInput round is round and pass append slots 1`] = `
+<div class="j_input j_input_group"><input type="text" class="j_input_inner j_input_inner_round j_input_inner_append j_input_inner_round_append">
+  <div class="j_input_group_append j_input_group_append_round">&lt;template&gt;.com&lt;/template&gt;</div>
+</div>
+`;
+
+exports[`JInput round is round and pass prepend slots 1`] = `
+<div class="j_input j_input_group">
+  <div class="j_input_group_prepend j_input_group_prepend_round">&lt;template&gt;Http://&lt;/template&gt;</div><input type="text" class="j_input_inner j_input_inner_round j_input_inner_prepend j_input_inner_round_prepend">
+</div>
+`;
+
+exports[`JInput showPassword click event click 1`] = `<div class="j_input"><input type="password" class="j_input_inner"><span class="j_input_icon j_input_suffix"><i class="j_input_icon_gesture j-icon_show_password"></i></span></div>`;
+
+exports[`JInput showPassword click event click and pass type  1`] = `<div class="j_input"><input type="password" class="j_input_inner"><span class="j_input_icon j_input_suffix"><i class="j_input_icon_gesture j-icon_show_password"></i></span></div>`;
+
+exports[`JInput showPassword pass showPassword and mock focused disabled and readonly is false and value is empty 1`] = `<div class="j_input"><input type="password" class="j_input_inner"><span class="j_input_icon j_input_suffix"><i class="j_input_icon_gesture j-icon_show_password"></i></span></div>`;
+
+exports[`JInput showPassword pass showPassword and mock focused disabled is false and readonly is true and value is empty 1`] = `<div class="j_input"><input type="text" readonly="readonly" class="j_input_inner"></div>`;
+
+exports[`JInput showPassword pass showPassword and mock focused disabled is true and readonly is false and value is empty 1`] = `<div class="j_input"><input type="text" disabled="disabled" class="j_input_inner"></div>`;
+
+exports[`JInput showPassword pass showPassword and mock value disabled is false and readonly is false and value is empty 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;
+
+exports[`JInput showPassword pass showPassword and mock value disabled is false and readonly is false and value not empty 1`] = `<div class="j_input"><input type="password" class="j_input_inner"><span class="j_input_icon j_input_suffix"><i class="j_input_icon_gesture j-icon_show_password"></i></span></div>`;
+
+exports[`JInput showPassword pass showPassword and mock value disabled is false and readonly is true and value not empty 1`] = `<div class="j_input"><input type="text" readonly="readonly" class="j_input_inner"></div>`;
+
+exports[`JInput showPassword pass showPassword and mock value disabled is true and readonly is false and value not empty 1`] = `<div class="j_input"><input type="text" disabled="disabled" class="j_input_inner"></div>`;
+
+exports[`JInput showPassword pass showPassword test input type mock passwordVisible is false 1`] = `<div class="j_input"><input type="password" class="j_input_inner"><span class="j_input_icon j_input_suffix"><i class="j_input_icon_gesture j-icon_show_password"></i></span></div>`;
+
+exports[`JInput showPassword pass showPassword test input type mock passwordVisible is true 1`] = `<div class="j_input"><input type="text" class="j_input_inner"><span class="j_input_icon j_input_suffix"><i class="j_input_icon_gesture j-icon_show_password"></i></span></div>`;
+
+exports[`JInput showPassword pass showPassword test input type mock passwordVisible is true and pass type 1`] = `<div class="j_input"><input type="number" class="j_input_inner"><span class="j_input_icon j_input_suffix"><i class="j_input_icon_gesture j-icon_show_password"></i></span></div>`;
+
+exports[`JInput size large size 1`] = `<div class="j_input"><input type="text" class="j_input_inner j_input_inner_large"></div>`;
+
+exports[`JInput size small size 1`] = `<div class="j_input"><input type="text" class="j_input_inner j_input_inner_small"></div>`;
+
+exports[`JInput slot append is round 1`] = `
+<div class="j_input j_input_group"><input type="text" class="j_input_inner j_input_inner_round j_input_inner_append j_input_inner_round_append">
+  <div class="j_input_group_append j_input_group_append_round"><i>.com</i></div>
+</div>
+`;
+
+exports[`JInput slot append not is round 1`] = `
+<div class="j_input j_input_group"><input type="text" class="j_input_inner j_input_inner_append">
+  <div class="j_input_group_append"><i>.com</i></div>
+</div>
+`;
+
+exports[`JInput slot prefix prefix 1`] = `<div class="j_input"><input type="text" class="j_input_inner j_input_inner_prefix"><span class="j_input_icon j_input_prefix"><i class="j-icon_search"></i></span></div>`;
+
+exports[`JInput slot prefix prefix calcIconOffset 1`] = `
+<div class="j_input j_input_group">
+  <div class="j_input_group_prepend"><i>Http://</i></div><input type="text" class="j_input_inner j_input_inner_prefix j_input_inner_prepend"><span class="j_input_icon j_input_prefix" style="transform: translateX(0px);"><i class="j-icon_search"></i></span>
+</div>
+`;
+
+exports[`JInput slot prepend is round 1`] = `
+<div class="j_input j_input_group">
+  <div class="j_input_group_prepend j_input_group_prepend_round"><i>Http://</i></div><input type="text" class="j_input_inner j_input_inner_round j_input_inner_prepend j_input_inner_round_prepend">
+</div>
+`;
+
+exports[`JInput slot prepend not is round 1`] = `
+<div class="j_input j_input_group">
+  <div class="j_input_group_prepend"><i>Http://</i></div><input type="text" class="j_input_inner j_input_inner_prepend">
+</div>
+`;
+
+exports[`JInput slot suffix suffix 1`] = `<div class="j_input"><input type="text" class="j_input_inner j_input_inner_suffix"><span class="j_input_icon j_input_suffix"><i class="j-icon_calendar"></i></span></div>`;
+
+exports[`JInput slot suffix suffix calcIconOffset 1`] = `
+<div class="j_input j_input_group"><input type="text" class="j_input_inner j_input_inner_suffix j_input_inner_append"><span class="j_input_icon j_input_suffix" style="transform: translateX(-0px);"><i class="j-icon_search"></i></span>
+  <div class="j_input_group_append"><i>.com</i></div>
+</div>
+`;
+
+exports[`JInput tabindex pass tabindex 1`] = `<div class="j_input"><input tabindex="1" type="text" class="j_input_inner"></div>`;
+
+exports[`JInput type default 1`] = `<input type="text" class="j_input_inner">`;
+
+exports[`JInput type pass type is number 1`] = `<input type="number" class="j_input_inner">`;
+
+exports[`JInput type pass type is passworad 1`] = `<input type="password" class="j_input_inner">`;
+
+exports[`JInput type pass type is textarea 1`] = ``;
+
+exports[`JInput watch nativeInputValue 1`] = `<div class="j_input"><input type="text" class="j_input_inner"></div>`;

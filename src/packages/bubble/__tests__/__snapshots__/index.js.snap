@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`JBubble JBubble method close 1`] = `
+<div class="j_bubble"><span>测试</span>
+  <div class="j_bubble_popper j_popper j_popper_dark" style="display: none;">
+    <ul></ul>
+  </div>
+</div>
+`;
+
+exports[`JBubble JBubble method open 1`] = `<div class="j_bubble"><span>测试</span></div>`;
+
+exports[`JBubble create create 1`] = `
+<div class="j_bubble"><span>测试</span>
+  <div class="j_bubble_popper j_popper j_popper_dark" style="display: none;">
+    <ul></ul>
+  </div>
+</div>
+`;
+
+exports[`JBubble create create and no root element 1`] = ``;
+
+exports[`JBubble create create and no tag element 1`] = ``;
+
+exports[`JBubble create destroyed 1`] = `
+<div class="j_bubble"><span>测试</span>
+  <div class="j_bubble_popper j_popper j_popper_dark" style="display: none;">
+    <ul></ul>
+  </div>
+</div>
+`;
+
+exports[`JBubble create popper element mouseout 1`] = `
+<div class="j_bubble"><span>测试</span>
+  <div class="j_bubble_popper j_popper j_popper_dark" style="display: none;">
+    <ul></ul>
+  </div>
+</div>
+`;
+
+exports[`JBubble create popper element mouseover 1`] = `<div class="j_bubble"><span>测试</span></div>`;
+
+exports[`JBubble create reference element mouseout 1`] = `
+<div class="j_bubble"><span>测试</span>
+  <div class="j_bubble_popper j_popper j_popper_dark" style="display: none;">
+    <ul></ul>
+  </div>
+</div>
+`;
+
+exports[`JBubble create reference element mouseover 1`] = `<div class="j_bubble"><span>测试</span></div>`;
+
+exports[`JBubble size large size 1`] = `
+<div class="j_bubble"><span>测试</span>
+  <div class="j_bubble_popper j_popper j_popper_dark j_bubble_popper_large" style="display: none;">
+    <ul></ul>
+  </div>
+</div>
+`;
+
+exports[`JBubble size small size 1`] = `
+<div class="j_bubble"><span>测试</span>
+  <div class="j_bubble_popper j_popper j_popper_dark j_bubble_popper_small" style="display: none;">
+    <ul></ul>
+  </div>
+</div>
+`;
+
+exports[`JBubble slot content content 1`] = `
+<div class="j_bubble"><span>测试</span>
+  <div class="j_bubble_popper j_popper j_popper_dark" style="display: none;">
+    <ul>
+      <li>阳性</li>
+      <li>阴性</li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`JBubble user operation move the reference element into the popper element at the moment 1`] = `<div class="j_bubble"><span>测试</span></div>`;

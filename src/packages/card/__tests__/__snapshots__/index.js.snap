@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`JCard create create 1`] = `
+<div class="j_card">
+  <div class="j_card_identity"><span class="j_card_identity_icon"><i class="j-icon_card_patient"></i></span><span class="j_card_role j_card_role_patient">患者</span></div><span class="j_card_content j_card_content_patient"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard create mousedown event 1`] = `
+<div class="j_card">
+  <div class="j_card_identity"><span class="j_card_identity_icon"><i class="j-icon_card_patient"></i></span><span class="j_card_role j_card_role_patient">患者</span></div><span class="j_card_content j_card_content_patient"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard create mouseup event 1`] = `
+<div class="j_card">
+  <div class="j_card_identity"><span class="j_card_identity_icon"><i class="j-icon_card_patient"></i></span><span class="j_card_role j_card_role_patient">患者</span></div><span class="j_card_content j_card_content_patient"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard direction horizontal direction is horizontal and role is doctor 1`] = `
+<div class="j_card"><span class="j_card_content j_card_content_doctor j_card_content_horizontal"><span class=""><span></span></span></span>
+  <div class="j_card_identity j_card_identity_doctor j_card_identity_horizontal"><span class="j_card_role j_card_role_horizontal">医生</span><span class="j_card_identity_icon"><i class="j-icon_card_doctor"></i></span></div>
+</div>
+`;
+
+exports[`JCard direction horizontal direction is horizontal and role is patient 1`] = `
+<div class="j_card">
+  <div class="j_card_identity j_card_identity_horizontal"><span class="j_card_identity_icon"><i class="j-icon_card_patient"></i></span><span class="j_card_role j_card_role_horizontal">患者</span></div><span class="j_card_content j_card_content_patient j_card_content_horizontal"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard direction vertical direction is vertical and role is doctor 1`] = `
+<div class="j_card">
+  <div class="j_card_identity j_card_identity_doctor"><span class="j_card_role j_card_role_doctor">医生</span><span class="j_card_identity_icon"><i class="j-icon_card_doctor"></i></span></div><span class="j_card_content j_card_content_doctor"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard direction vertical direction is vertical and role is patient 1`] = `
+<div class="j_card">
+  <div class="j_card_identity"><span class="j_card_identity_icon"><i class="j-icon_card_patient"></i></span><span class="j_card_role j_card_role_patient">患者</span></div><span class="j_card_content j_card_content_patient"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard role doctor role is doctor and direction is horizontal 1`] = `
+<div class="j_card"><span class="j_card_content j_card_content_doctor j_card_content_horizontal"><span class=""><span></span></span></span>
+  <div class="j_card_identity j_card_identity_doctor j_card_identity_horizontal"><span class="j_card_role j_card_role_horizontal">医生</span><span class="j_card_identity_icon"><i class="j-icon_card_doctor"></i></span></div>
+</div>
+`;
+
+exports[`JCard role doctor role is doctor and direction is vertical 1`] = `
+<div class="j_card">
+  <div class="j_card_identity j_card_identity_doctor"><span class="j_card_role j_card_role_doctor">医生</span><span class="j_card_identity_icon"><i class="j-icon_card_doctor"></i></span></div><span class="j_card_content j_card_content_doctor"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard role patient role is patient and direction is horizontal 1`] = `
+<div class="j_card">
+  <div class="j_card_identity j_card_identity_horizontal"><span class="j_card_identity_icon"><i class="j-icon_card_patient"></i></span><span class="j_card_role j_card_role_horizontal">患者</span></div><span class="j_card_content j_card_content_patient j_card_content_horizontal"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard role patient role is patient and direction is vertical 1`] = `
+<div class="j_card">
+  <div class="j_card_identity"><span class="j_card_identity_icon"><i class="j-icon_card_patient"></i></span><span class="j_card_role j_card_role_patient">患者</span></div><span class="j_card_content j_card_content_patient"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard size large size 1`] = `
+<div class="j_card">
+  <div class="j_card_identity"><span class="j_card_identity_icon"><i class="j-icon_card_patient"></i></span><span class="j_card_role j_card_role_patient">患者</span></div><span class="j_card_content j_card_content_large j_card_content_patient"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard size small size 1`] = `
+<div class="j_card">
+  <div class="j_card_identity"><span class="j_card_identity_icon"><i class="j-icon_card_patient"></i></span><span class="j_card_role j_card_role_patient">患者</span></div><span class="j_card_content j_card_content_small j_card_content_patient"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard slot append pass append 1`] = `
+<div class="j_card">
+  <div class="j_card_identity"><span class="j_card_identity_icon"><i class="j-icon_card_patient"></i></span><span class="j_card_role j_card_role_patient">患者</span></div><span class="j_card_content j_card_content_patient"><span class=""><span></span><i class="j-icon_card_start"></i></span></span>
+</div>
+`;
+
+exports[`JCard slot avatar no pass avatar no pass avatar and role is doctor 1`] = `
+<div class="j_card">
+  <div class="j_card_identity j_card_identity_doctor"><span class="j_card_role j_card_role_doctor">医生</span><span class="j_card_identity_icon"><i class="j-icon_card_doctor"></i></span></div><span class="j_card_content j_card_content_doctor"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard slot avatar no pass avatar no pass avatar and role is patient 1`] = `
+<div class="j_card">
+  <div class="j_card_identity"><span class="j_card_identity_icon"><i class="j-icon_card_patient"></i></span><span class="j_card_role j_card_role_patient">患者</span></div><span class="j_card_content j_card_content_patient"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard slot avatar pass avatar pass avatar and role is doctor 1`] = `
+<div class="j_card">
+  <div class="j_card_identity j_card_identity_doctor"><span class="j_card_role j_card_role_doctor">医生</span><span class="j_card_identity_icon"><i class="j-icon_card_start"></i></span></div><span class="j_card_content j_card_content_doctor"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard slot avatar pass avatar pass avatar and role is patient 1`] = `
+<div class="j_card">
+  <div class="j_card_identity"><span class="j_card_identity_icon"><i class="j-icon_card_start"></i></span><span class="j_card_role j_card_role_patient">患者</span></div><span class="j_card_content j_card_content_patient"><span class=""><span></span></span></span>
+</div>
+`;
+
+exports[`JCard slot prefix pass prefix 1`] = `
+<div class="j_card">
+  <div class="j_card_identity"><span class="j_card_identity_icon"><i class="j-icon_card_patient"></i></span><span class="j_card_role j_card_role_patient">患者</span></div><span class="j_card_content j_card_content_patient"><span class="j_card_content_icon"><i class="j-icon_card_start"></i></span><span class="j_card_content_text"><span></span></span></span>
+</div>
+`;
+
+exports[`JCard text test is html 1`] = `
+<div class="j_card">
+  <div class="j_card_identity"><span class="j_card_identity_icon"><i class="j-icon_card_patient"></i></span><span class="j_card_role j_card_role_patient">患者</span></div><span class="j_card_content j_card_content_patient"><span class=""><span><s1>test</s1></span></span></span>
+</div>
+`;
+
+exports[`JCard text test is text 1`] = `
+<div class="j_card">
+  <div class="j_card_identity"><span class="j_card_identity_icon"><i class="j-icon_card_patient"></i></span><span class="j_card_role j_card_role_patient">患者</span></div><span class="j_card_content j_card_content_patient"><span class=""><span>test</span></span></span>
+</div>
+`;

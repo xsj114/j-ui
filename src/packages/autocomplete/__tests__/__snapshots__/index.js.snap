@@ -1,0 +1,618 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`JAutocomplete JAutocomplete method close 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete appendToBody no pass appendToBody 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete appendToBody pass appendToBody is false 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete blur event blur 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete create create 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete debounce no pass debounce 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete debounce pass debounce 100 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete destroyed destroyed 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete disabled no pass appendToBody 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete disabled pass disabled is false 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" disabled="disabled" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete fetchSuggest pass fetchSuggest and value is array 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete fetchSuggest pass fetchSuggest and value not is array 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete focus event focus 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete input event input 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete placement no pass placement 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete placement pass placement is top 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete readonly no pass readonly 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete readonly pass readonly is false 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" readonly="readonly" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete round no pass round 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete round pass round is false 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner j_input_inner_round"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete select event select 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete size large size 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner j_input_inner_large"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list">
+          <li class="j_autocomplete_suggest_list_item j_autocomplete_suggest_list_item_large">value</li>
+        </ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete size small size 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner j_input_inner_small"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list">
+          <li class="j_autocomplete_suggest_list_item j_autocomplete_suggest_list_item_small">value</li>
+        </ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete slot append 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input j_input_group"><input type="text" class="j_input_inner j_input_inner_append">
+    <div class="j_input_group_append"><i>.COM</i></div>
+  </div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete slot prefix 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner j_input_inner_prefix"><span class="j_input_icon j_input_prefix"><i>prefix</i></span></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete slot prepend 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input j_input_group">
+    <div class="j_input_group_prepend"><i>Http://</i></div><input type="text" class="j_input_inner j_input_inner_prepend">
+  </div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete slot suffix 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner j_input_inner_suffix"><span class="j_input_icon j_input_suffix"><i>suffix</i></span></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete user operation user input value out then click on the document then click input 1`] = `
+<div class="box">
+  <div class="j_autocomplete">
+    <div class="j_input"><input type="text" class="j_input_inner"></div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete value no pass value 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete value pass value is test 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete valueKey no pass valueKey 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+</div>
+`;
+
+exports[`JAutocomplete valueKey pass valueKey is text 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+</div>
+`;
+
+exports[`JAutocomplete visibleArrow no pass visibleArrow 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`JAutocomplete visibleArrow pass visibleArrow is false 1`] = `
+<div class="j_autocomplete">
+  <div class="j_input"><input type="text" class="j_input_inner"></div>
+  <div class="j_autocomplete_suggest j_popper j_popper_light" style="display: none;">
+    <div class="j_scrollbar">
+      <div class="j_scrollbar_wrap j_scrollbar_hidden_default j_autocomplete_suggest_list_wrap">
+        <ul class="j_autocomplete_suggest_list"></ul>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_horizontal">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+      <div class="j_scrollbar_bar j_scrollbar_bar_vertical">
+        <div class="j_scroll_bar_thumb"></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

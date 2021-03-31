@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`JTag active is active 1`] = `<span class="j_tag j_tag_active"></span>`;
+
+exports[`JTag closable is closable 1`] = `<span class="j_tag"><span class="j_tag_close"><i class="j_tag_close_fix j-icon_tag_close"></i></span></span>`;
+
+exports[`JTag closable is closable click 1`] = `<span class="j_tag"><span class="j_tag_close"><i class="j_tag_close_fix j-icon_tag_close"></i></span></span>`;
+
+exports[`JTag closable slot icon 1`] = `<span class="j_tag"><span class="j_tag_close"><i class="j-icon_tag_close_custom"></i></span></span>`;
+
+exports[`JTag create click 1`] = `<span class="j_tag"></span>`;
+
+exports[`JTag create create 1`] = `<span class="j_tag"></span>`;
+
+exports[`JTag create create text 1`] = `<span class="j_tag">变化趋势</span>`;
+
+exports[`JTag create mouseout 1`] = `<span class="j_tag"></span>`;
+
+exports[`JTag create mouseover 1`] = `<span class="j_tag"></span>`;
+
+exports[`JTag disable is disable 1`] = `<span class="j_tag j_tag_disable"></span>`;
+
+exports[`JTag size large size 1`] = `<span class="j_tag j_tag_large"></span>`;
+
+exports[`JTag size small size 1`] = `<span class="j_tag j_tag_small"></span>`;
