@@ -1,6 +1,6 @@
 {
   "name": "j-ui-library",
-  "version": "0.1.60",
+  "version": "0.1.61",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -58,7 +58,9 @@
       }
     ]
   },
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "jest": {
     "moduleFileExtensions": [
       "js",

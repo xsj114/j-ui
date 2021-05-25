@@ -24,6 +24,9 @@ export default {
         },
         handleMouseDown (event) {
             this.$emit('mousedown', event)
+        },
+        handleDoubleClick (event) {
+            this.$emit('textDbClick', event)
         }
     },
     render () {
@@ -65,7 +68,7 @@ export default {
                     </span>
                 }
                 <span class={classCardContentText}>
-                    <span domPropsInnerHTML={text}></span>
+                <span domPropsInnerHTML={text} on-doubleclick={this.handleDoubleClick} ></span>
                     {
                         this.$scopedSlots.append ? this.$scopedSlots.append() : null
                     }
