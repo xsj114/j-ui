@@ -68,7 +68,7 @@ export default {
                     </span>
                 }
                 <span class={classCardContentText}>
-                <span domPropsInnerHTML={text} on-doubleclick={this.handleDoubleClick} ></span>
+                <span domPropsInnerHTML={text} on-dblclick={this.handleDoubleClick} ></span>
                     {
                         this.$scopedSlots.append ? this.$scopedSlots.append() : null
                     }
